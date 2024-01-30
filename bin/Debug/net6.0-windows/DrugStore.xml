@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Drugs>
+  <Drug>
+    <Name>Парацетомол</Name>
+    <Type>Жарознижувальні засоби</Type>
+    <QuantityInPack>4</QuantityInPack>
+    <Price>87</Price>
+    <QuantityInStock>3416</QuantityInStock>
+    <ManufactureDate>2023-11-27T00:00:00</ManufactureDate>
+    <ExpiryDate>2024-01-21T00:00:00</ExpiryDate>
+  </Drug>
+  <Drug>
+    <Name>Анальгин</Name>
+    <Type>Анальгезуючі засоби</Type>
+    <QuantityInPack>12</QuantityInPack>
+    <Price>68</Price>
+    <QuantityInStock>6752</QuantityInStock>
+    <ManufactureDate>2024-01-01T00:00:00</ManufactureDate>
+    <ExpiryDate>2024-02-04T00:00:00</ExpiryDate>
+  </Drug>
+  <Drug>
+    <Name>Гидрокортизон pro </Name>
+    <Type>Гормональні препарати</Type>
+    <QuantityInPack>14</QuantityInPack>
+    <Price>35</Price>
+    <QuantityInStock>765</QuantityInStock>
+    <ManufactureDate>2023-07-03T00:00:00</ManufactureDate>
+    <ExpiryDate>2024-01-25T01:14:52.2594779+02:00</ExpiryDate>
+  </Drug>
+  <Drug>
+    <Name>Валедол</Name>
+    <Type>Серцеві глікозиди</Type>
+    <QuantityInPack>12</QuantityInPack>
+    <Price>45</Price>
+    <QuantityInStock>4267</QuantityInStock>
+    <ManufactureDate>2023-10-30T00:00:00</ManufactureDate>
+    <ExpiryDate>2024-02-04T00:00:00</ExpiryDate>
+  </Drug>
+  <Drug>
+    <Name>Льодяники Доктор МОМ</Name>
+    <Type>Спазмолітичні засоби</Type>
+    <QuantityInPack>24</QuantityInPack>
+    <Price>100</Price>
+    <QuantityInStock>2000</QuantityInStock>
+    <ManufactureDate>2023-10-30T00:00:00</ManufactureDate>
+    <ExpiryDate>2024-03-28T00:00:00</ExpiryDate>
+  </Drug>
+</Drugs>
